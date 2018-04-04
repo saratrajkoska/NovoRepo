@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\lab1>git log
+commit 38561fed61b8080e84ea54f28018505e07ef7d75 (HEAD -> master)
+Author: Sara Trajkoska <trajkoskasaraa@gmail.com>
+Date:   Wed Apr 4 14:42:06 2018 +0200
+
+    ADD
+
+commit dd7f88a0f72eadfafa9624189388e3c787718d47 (origin/master, logging, addcomands)
+Author: Sara Trajkoska <trajkoskasaraa@gmail.com>
+Date:   Wed Apr 4 12:42:58 2018 +0200
